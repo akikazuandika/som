@@ -4,5 +4,6 @@
 - Nodejs
 
 ## Running
-Type this command in terminal
+Type 
 ``` node . ```
+in terminal
